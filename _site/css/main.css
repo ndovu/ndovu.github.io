@@ -40,6 +40,10 @@ a {
   background-color: #c7dbfc;
   height: 50vh;
 }
+.full-hero:hover,
+.full-hero:active {
+  background-color: orange;
+}
 
 /* SOCIAL STYLES */
 .social-link {
