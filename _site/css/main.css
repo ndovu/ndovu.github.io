@@ -26,6 +26,9 @@ a {
   text-decoration: none;
   text-transform: uppercase;
 }
+.header-nav a:hover {
+  color: #ed6e2f;
+}
 
 /* HERO STYLES */
 .full-hero {
