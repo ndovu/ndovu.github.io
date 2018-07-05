@@ -59,6 +59,10 @@ a {
   vertical-align: middle;
   width: 2.5em;
 }
+.social-link:hover,
+.social-link:active {
+  background: grey;
+}
 .social-list {
   list-style: none;
   padding: 0;
